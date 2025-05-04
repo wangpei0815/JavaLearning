@@ -107,3 +107,6 @@
     使用方式
         定义一个切面类@Aspect,然后在类中定义不同的通知类型,指定不同的切入点,执行对应的方法体
         CodeReference:SummaryReferenceCode/OperationLogAspect.java
+
+10.配置文件的优先级顺序
+    命令行(--) > 虚拟机环境(-D) > .properties > yml > yaml
