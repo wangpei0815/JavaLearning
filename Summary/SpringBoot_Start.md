@@ -1,3 +1,4 @@
+# 后端部分知识总结
 1.IOC与DI
     IOC全称Inversion of Control,将对象的创建转移到程序外部,由框架自动创建对象实例统一管理
     DI全称Dependency Injection,在程序运行时动态的提供IOC所创建的对象
