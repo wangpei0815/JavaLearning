@@ -28,6 +28,8 @@
             - 方法非public
             - 自调用（未通过代理）
             - 异常被catch未抛出
+        - 使用方式
+            在类或者方法加@Transactional注解
 
 4.OSS
     概念
